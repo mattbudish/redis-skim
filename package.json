@@ -1,0 +1,19 @@
+{
+  "name": "redis-skim",
+  "version": "0.1.0",
+  "description": "An easier way to scan Redis keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "redis",
+    "scan"
+  ],
+  "author": "Matt Budish",
+  "license": "MIT"
+}
