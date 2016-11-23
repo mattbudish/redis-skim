@@ -1,7 +1,7 @@
 # redis-skim
 An easier way to scan Redis keys
 
-### Usage
+### Setup
 ```bash
 $ npm install redis-skim
 ```
